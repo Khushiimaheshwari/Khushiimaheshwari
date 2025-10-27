@@ -29,7 +29,7 @@ Software Developer | Full Stack Developer | Frontend Developer | Backend Develop
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-%2320232a.svg?style=for-the-badge&logo=express.js&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/Next,js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
