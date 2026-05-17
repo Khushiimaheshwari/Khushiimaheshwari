@@ -150,5 +150,5 @@ Python • Flask • NLP • Machine Learning
 ---
 
 <p align="center">
-⭐ Consistently building full-stack and AI-powered applications with active GitHub contributions.
+⭐ Consistently building full-stack and AI-powered applications
 </p>
